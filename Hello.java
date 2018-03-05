@@ -5,8 +5,8 @@ public class Hello{
        display();
     }
 
-    public static void display(String name){
-        System.out.println("hello hello");
+    public static void message(){
+        System.out.println("wow, we are won the game...");
     }
 
 
